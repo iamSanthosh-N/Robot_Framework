@@ -1,0 +1,7 @@
+datasources:0ba554a0114e6b68b9d0aa6f8de5360b668b3a9c
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:040748de0cb8302a09a8f92588e2945a13f290ca
+--suite Suites.DDT1
+--suite Suites.DDT2 Excel
+--suite Suites.DDT3 CSV
